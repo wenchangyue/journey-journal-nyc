@@ -6,6 +6,8 @@ author: Journey Journal
 lang: en
 url: "https://wenchangyue.github.io"
 baseurl: "/journey-journal-nyc"
+youtube_channel: "https://www.youtube.com/@journeyjournal-q"
+repository_url: "https://github.com/wenchangyue/journey-journal-nyc"
 
 collections:
   walks:
@@ -18,6 +20,9 @@ defaults:
       type: walks
     values:
       layout: walk
+
+plugins:
+  - jekyll-sitemap
 
 exclude:
   - README.md

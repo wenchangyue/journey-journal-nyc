@@ -1,0 +1,15 @@
+# Journey Journal — NYC Walks & Rides
+
+> Route, landmark, local-history, and practical companions for original real-time New York City walking and cycling videos.
+
+Site: https://wenchangyue.github.io/journey-journal-nyc/
+YouTube: https://www.youtube.com/@journeyjournal-q
+Publisher: Journey Journal
+Language: English
+Updated: 2026-07-13
+
+## Public pages
+
+- [Journey Journal home](https://wenchangyue.github.io/journey-journal-nyc/)
+
+Route pages are listed only after their matching videos are public. Check current park, bridge, street, and transit conditions before following a route.
