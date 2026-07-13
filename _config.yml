@@ -1,0 +1,24 @@
+title: Journey Journal — NYC Walks & Rides
+description: >-
+  Routes, landmarks, and history companion for Journey Journal — real-time 4K
+  walking and cycling videos of New York City with pure ambient sound.
+author: Journey Journal
+lang: en
+url: "https://wenchangyue.github.io"
+baseurl: "/journey-journal-nyc"
+
+collections:
+  walks:
+    output: true
+    permalink: /walk/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: walks
+    values:
+      layout: walk
+
+exclude:
+  - README.md
+  - TEMPLATE-walk.md
