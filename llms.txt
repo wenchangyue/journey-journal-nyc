@@ -11,5 +11,8 @@ Updated: 2026-07-13
 ## Public pages
 
 - [Journey Journal home](https://wenchangyue.github.io/journey-journal-nyc/)
+- [Flushing to Randall's Island by bike](https://wenchangyue.github.io/journey-journal-nyc/walk/flushing-to-randalls-ride/)
+- [Cycling Randall's Island](https://wenchangyue.github.io/journey-journal-nyc/walk/randalls-island-ride/)
+- [Complete public video index](https://wenchangyue.github.io/journey-journal-nyc/videos/)
 
-Route pages are listed only after their matching videos are public. Check current park, bridge, street, and transit conditions before following a route.
+The video index is generated from the channel's public uploads; private and unlisted videos are excluded. Detailed route pages are listed only after their matching videos are public and their facts are reviewed. Check current park, bridge, street, and transit conditions before following a route.

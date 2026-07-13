@@ -12,6 +12,10 @@ Companion notes for every video on the
 the exact **route**, the **landmarks** you see on camera (with verified dates),
 and a short **FAQ** for anyone who wants to do the same walk or ride.
 
+The [public video index]({{ '/videos/' | relative_url }}) lists every public
+Journey Journal upload, including older videos that do not yet have a detailed
+route companion.
+
 ## Journeys
 
 {% if site.walks.size > 0 %}
