@@ -1,6 +1,7 @@
 ---
-# Copy into _walks/<slug>.md, remove `published: false` when the video is PUBLIC.
-# Never include URLs of unlisted videos — repo is public.
+# Copy into _walks/<slug>.md and complete it during SEO/GEO prep.
+# Keep `published: false`: the uploader first creates a private YouTube video,
+# then fills the stable ID/URL, publishes this page and verifies both links.
 published: false
 layout: walk
 title: "TITLE"

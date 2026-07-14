@@ -8,11 +8,13 @@ Publisher: Journey Journal
 Language: English
 Updated: 2026-07-13
 
-## Public pages
+## Companion pages
 
+<!-- AUTO-COMPANION-PAGES:START -->
 - [Journey Journal home](https://wenchangyue.github.io/journey-journal-nyc/)
 - [Flushing to Randall's Island by bike](https://wenchangyue.github.io/journey-journal-nyc/walk/flushing-to-randalls-ride/)
 - [Cycling Randall's Island](https://wenchangyue.github.io/journey-journal-nyc/walk/randalls-island-ride/)
 - [Complete public video index](https://wenchangyue.github.io/journey-journal-nyc/videos/)
+<!-- AUTO-COMPANION-PAGES:END -->
 
-The video index is generated from the channel's public uploads; private and unlisted videos are excluded. Detailed route pages are listed only after their matching videos are public and their facts are reviewed. Check current park, bridge, street, and transit conditions before following a route.
+The video index is generated from the channel's public uploads; private and unlisted videos are excluded from that index. A reviewed route companion is finalized as soon as its private upload receives a stable video ID, before the separate owner-controlled visibility step. Check current park, bridge, street, and transit conditions before following a route.
