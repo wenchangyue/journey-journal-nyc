@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 layout: walk
 title: "Harlem in a Summer Thunderstorm — Lenox Avenue, 135th to 125th and Back"
 slug: lenox-avenue-summer-thunderstorm
@@ -9,7 +9,7 @@ description: >-
   Harlem, New York City, recorded in a midday summer thunderstorm on July 18,
   2026 — from Lenox Terrace at West 135th Street to the Red Rooster corner at
   West 125th Street and back, with storm ambience and a soft original piano.
-video_id: TRbcMzqX4h4
+video_id: VIDEO_ID
 upload_date: 2026-07-18
 reviewed_date: 2026-07-18
 duration: PT24M13S
@@ -40,7 +40,7 @@ sources:
   - "[M&T Bank — 310 Lenox Ave branch](https://locations.mtb.com/ny/newyork/bank-branches-and-atms-new-york-ny-546.html)"
   - "[BLG Hardware — 439 Lenox Ave](https://blghardware.com/)"
   - "[Key Food — Food Dynasty, 448 Lenox Ave](https://www.keyfood.com/stores/2390)"
-youtube_url: https://youtu.be/TRbcMzqX4h4
+youtube_url: https://youtu.be/VIDEO_ID
 ---
 ## The journey
 
