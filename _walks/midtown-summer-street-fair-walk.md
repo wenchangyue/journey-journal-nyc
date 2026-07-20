@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 layout: walk
 title: "A Summer Sunday in Midtown — Grand Central, a Street Fair, and Fifth Avenue"
 slug: midtown-summer-street-fair-walk
@@ -10,7 +10,7 @@ description: >-
   through a street festival of vendor tents and food trucks, then through
   Midtown East past the Villard Houses to Fifth Avenue at St. Patrick's
   Cathedral, recorded in July 2026.
-video_id: CSvLTf_4PNI
+video_id: VIDEO_ID
 upload_date: 2026-07-20
 reviewed_date: 2026-07-19
 duration: PT27M44S
@@ -47,7 +47,7 @@ sources:
   - "[Wikipedia — Rockefeller Center](https://en.wikipedia.org/wiki/Rockefeller_Center)"
   - "[LEGO — Fifth Avenue store](https://www.lego.com/en-us/stores/store/5th-avenue)"
   - "[Wikipedia — Cartier Building](https://en.wikipedia.org/wiki/Cartier_Building)"
-youtube_url: https://youtu.be/CSvLTf_4PNI
+youtube_url: https://youtu.be/VIDEO_ID
 ---
 ## The journey
 
