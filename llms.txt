@@ -6,7 +6,7 @@ Site: https://wenchangyue.github.io/journey-journal-nyc/
 YouTube: https://www.youtube.com/@journeyjournal-q
 Publisher: Journey Journal
 Language: English
-Updated: 2026-07-20
+Updated: 2026-07-21
 ## Companion pages
 
 <!-- AUTO-COMPANION-PAGES:START -->
@@ -18,6 +18,7 @@ Updated: 2026-07-20
 - [Harlem at Golden Hour — Madison Avenue from 100th to 130th Street](https://wenchangyue.github.io/journey-journal-nyc/walk/madison-avenue-harlem-golden-hour/)
 - [Harlem in a Summer Thunderstorm — Lenox Avenue, 135th to 125th and Back](https://wenchangyue.github.io/journey-journal-nyc/walk/lenox-avenue-summer-thunderstorm/)
 - [Journey Journal home](https://wenchangyue.github.io/journey-journal-nyc/)
+- [The Other Fifth Avenue — Museum Mile to Harlem at Sunset](https://wenchangyue.github.io/journey-journal-nyc/walk/the-other-fifth-avenue/)
 <!-- AUTO-COMPANION-PAGES:END -->
 
 The video index is generated from the channel's public uploads; private and unlisted videos are excluded from that index. A reviewed route companion is finalized as soon as its private upload receives a stable video ID, before the separate owner-controlled visibility step. Check current park, bridge, street, and transit conditions before following a route.

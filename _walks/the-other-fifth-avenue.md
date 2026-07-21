@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: walk
 title: "The Other Fifth Avenue — Museum Mile to Harlem at Sunset"
 slug: the-other-fifth-avenue
@@ -10,7 +10,7 @@ description: >-
   Central Park North, through Marcus Garvey Park — where Fifth Avenue
   pauses for four blocks — to 125th Street and the Harlem brownstones,
   ending at West 135th Street. Recorded July 20, 2026.
-video_id: VIDEO_ID
+video_id: d9rvhBMQEq4
 upload_date: 2026-07-21
 reviewed_date: 2026-07-21
 duration: PT40M19S
@@ -49,7 +49,7 @@ sources:
   - "[Wikipedia — El Museo del Barrio](https://en.wikipedia.org/wiki/El_Museo_del_Barrio)"
   - "[Wikipedia — Mount Morris Park Historic District](https://en.wikipedia.org/wiki/Mount_Morris_Park_Historic_District)"
   - "[Wikipedia — 125th Street](https://en.wikipedia.org/wiki/125th_Street_(Manhattan))"
-youtube_url: https://youtu.be/VIDEO_ID
+youtube_url: https://youtu.be/d9rvhBMQEq4
 ---
 ## The journey
 
