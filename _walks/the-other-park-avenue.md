@@ -13,7 +13,7 @@ description: >-
 video_id: VIDEO_ID
 upload_date: 2026-07-24
 reviewed_date: 2026-07-24
-duration: PT40M8S
+duration: PT40M2S
 route: Park Ave & E 100th St → Tito Puente Way (110th) → La Marqueta → Harlem–125th St station → rebuild zone → E 132nd St
 faq:
   - q: Is this the famous Park Avenue?
