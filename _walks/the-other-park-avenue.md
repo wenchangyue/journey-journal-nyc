@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: walk
 title: "The Other Park Avenue — Under the Rails Through East Harlem"
 slug: the-other-park-avenue
@@ -10,8 +10,8 @@ description: >-
   stone arches at 100th Street past La Marqueta and the Harlem–125th Street
   station to the viaduct rebuild zone and East 132nd Street, where the rails
   cross the Harlem River. Recorded July 24, 2026.
-video_id: VIDEO_ID
-upload_date: 2026-07-24
+video_id: ExEYUuB_YLo
+upload_date: 2026-07-25
 reviewed_date: 2026-07-24
 duration: PT40M2S
 route: Park Ave & E 100th St → Tito Puente Way (110th) → La Marqueta → Harlem–125th St station → rebuild zone → E 132nd St
@@ -52,7 +52,7 @@ sources:
   - "[Governor's office — Park Avenue Viaduct replacement milestone](https://www.governor.ny.gov/news/governor-hochul-announces-phase-one-milestone-mta-park-avenue-viaduct-replacement-project)"
   - "[Wikipedia — Harlem River Lift Bridge](https://en.wikipedia.org/wiki/Harlem_River_Lift_Bridge)"
   - "[East Harlem Preservation — Tito Puente Way](https://www.east-harlem.com/index.php/News/view/tito_puente_way/)"
-youtube_url: https://youtu.be/VIDEO_ID
+youtube_url: https://youtu.be/ExEYUuB_YLo
 ---
 ## The journey
 
