@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: walk
 title: "Queens Night Market — A Saturday Night at New York's $5 Food Fair"
 slug: queens-night-market
@@ -9,7 +9,7 @@ description: >-
   Science in Flushing Meadows Corona Park: 100+ vendors under blue tents,
   most dishes capped at $5–6, food from over 100 countries, grill smoke and
   Saturday-night crowds. Recorded July 25, 2026.
-video_id: VIDEO_ID
+video_id: _doSRMggEMc
 upload_date: 2026-07-26
 reviewed_date: 2026-07-26
 duration: PT10M20S
@@ -41,7 +41,7 @@ sources:
   - "[NYSCI — visit](https://nysci.org/visit)"
   - "[Wikipedia — New York Hall of Science](https://en.wikipedia.org/wiki/New_York_Hall_of_Science)"
   - "[Wikipedia — Flushing Meadows–Corona Park](https://en.wikipedia.org/wiki/Flushing_Meadows%E2%80%93Corona_Park)"
-youtube_url: https://youtu.be/VIDEO_ID
+youtube_url: https://youtu.be/_doSRMggEMc
 ---
 ## The journey
 
