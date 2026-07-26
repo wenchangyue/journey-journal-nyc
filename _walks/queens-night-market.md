@@ -43,7 +43,7 @@ sources:
   - "[Wikipedia — Flushing Meadows–Corona Park](https://en.wikipedia.org/wiki/Flushing_Meadows%E2%80%93Corona_Park)"
 youtube_url: https://youtu.be/VIDEO_ID
 ---
-## The visit
+## The journey
 
 Every summer Saturday after dark, the field behind the **New York Hall of
 Science** — one of the last buildings standing from the **1964 World's
