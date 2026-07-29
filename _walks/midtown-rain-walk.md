@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: walk
 title: "Midtown in the Rain — 34th Street to St. Patrick's, Through a Misty Times Square"
 slug: midtown-rain-walk
@@ -10,8 +10,8 @@ description: >-
   up the Broadway plazas, through Times Square in fog and rain, and east
   past St. Patrick's Cathedral to 51st Street. Recorded July 28, 2026,
   played at a calm 0.9× pace with pitch-preserved sound.
-video_id: VIDEO_ID
-upload_date: 2026-07-28
+video_id: eOH23ZxMhMU
+upload_date: 2026-07-29
 reviewed_date: 2026-07-28
 duration: PT1H8M57S
 route: E 34th St → Herald Square → Eighth Ave · Garment District → Broadway plazas → Times Square → St. Patrick's → E 51st St
@@ -49,7 +49,7 @@ sources:
   - "[Guinness World Records — highest-grossing Broadway musical](https://www.guinnessworldrecords.com/world-records/611349-highest-grossing-broadway-musical)"
   - "[Wikipedia — Garment District](https://en.wikipedia.org/wiki/Garment_District,_Manhattan)"
   - "[Wikipedia — St. Patrick's Cathedral](https://en.wikipedia.org/wiki/St._Patrick%27s_Cathedral_(New_York_City))"
-youtube_url: https://youtu.be/VIDEO_ID
+youtube_url: https://youtu.be/eOH23ZxMhMU
 ---
 ## The journey
 
