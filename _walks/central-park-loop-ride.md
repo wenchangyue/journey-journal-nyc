@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: walk
 title: "Cycling the Central Park Loop — Golden Hour to Blue Hour, 110th Street Around and Back"
 slug: central-park-loop-ride
@@ -10,8 +10,8 @@ description: >-
   El Dorado towers, horse-drawn carriages near Central Park South, then
   up the East Drive through the blue hour as the park lamps come on.
   Recorded July 31, 2026, with real park sound and a soft instrumental bed.
-video_id: VIDEO_ID
-upload_date: 2026-07-31
+video_id: Fo5q41GCCsE
+upload_date: 2026-08-01
 reviewed_date: 2026-07-31
 duration: PT43M0S
 route: W 113th St → Central Park North → West Drive → near Central Park South → East Drive (Fifth Ave side) → Central Park North
@@ -48,7 +48,7 @@ sources:
   - "[Central Park Conservancy — Sheep Meadow / Tavern on the Green era](https://www.centralpark.com/things-to-do/attractions/sheep-meadow/)"
   - "[Central Park Conservancy — The Mall & Literary Walk elms](https://www.centralparknyc.org/locations/the-mall-literary-walk)"
   - "[USNO — sun data for July 31, 2026, New York](https://aa.usno.navy.mil/api/rstt/oneday?date=2026-07-31&coords=40.78,-73.97&tz=-4)"
-youtube_url: https://youtu.be/VIDEO_ID
+youtube_url: https://youtu.be/Fo5q41GCCsE
 ---
 ## The journey
 
