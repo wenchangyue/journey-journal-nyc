@@ -6,11 +6,12 @@ Site: https://wenchangyue.github.io/journey-journal-nyc/
 YouTube: https://www.youtube.com/@journeyjournal-q
 Publisher: Journey Journal
 Language: English
-Updated: 2026-08-01
+Updated: 2026-08-03
 ## Companion pages
 
 <!-- AUTO-COMPANION-PAGES:START -->
 - [A Summer Sunday in Midtown — Grand Central, a Street Fair, and Fifth Avenue](https://wenchangyue.github.io/journey-journal-nyc/walk/midtown-summer-street-fair-walk/)
+- [A Sunday Evening on the Hudson River Greenway — Riding Manhattan's West Side, 120th to 150th](https://wenchangyue.github.io/journey-journal-nyc/walk/hudson-greenway-sunday-ride/)
 - [Central Park in a Summer Downpour — East Meadow to Museum Mile](https://wenchangyue.github.io/journey-journal-nyc/walk/central-park-summer-downpour/)
 - [Complete public video index](https://wenchangyue.github.io/journey-journal-nyc/videos/)
 - [Cycling Randall's Island](https://wenchangyue.github.io/journey-journal-nyc/walk/randalls-island-ride/)

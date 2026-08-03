@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: walk
 title: "A Sunday Evening on the Hudson River Greenway — Riding Manhattan's West Side, 120th to 150th"
 slug: hudson-greenway-sunday-ride
@@ -9,8 +9,8 @@ description: >-
   along the Hudson River Greenway: Riverside Park, the Cherry Walk, the New
   Jersey Palisades, Riverbank State Park and the George Washington Bridge,
   then back through Harlem at dusk. Recorded August 2, 2026.
-video_id: VIDEO_ID
-upload_date: 2026-08-02
+video_id: EQ4IEvjIUKY
+upload_date: 2026-08-03
 reviewed_date: 2026-08-02
 duration: PT1H8M59S
 route: W 120th St → Upper West Side to the 90s → Riverside Park → Hudson River Greenway north → Riverbank State Park → ~150th St → back through Harlem
@@ -51,7 +51,7 @@ sources:
   - "[Wikipedia — George Washington Bridge](https://en.wikipedia.org/wiki/George_Washington_Bridge)"
   - "[Wikipedia — Riverside Church](https://en.wikipedia.org/wiki/Riverside_Church)"
   - "[National Park Service — General Grant National Memorial](https://www.nps.gov/gegr/index.htm)"
-youtube_url: https://youtu.be/VIDEO_ID
+youtube_url: https://youtu.be/EQ4IEvjIUKY
 ---
 ## The journey
 
