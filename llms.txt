@@ -6,7 +6,7 @@ Site: https://wenchangyue.github.io/journey-journal-nyc/
 YouTube: https://www.youtube.com/@journeyjournal-q
 Publisher: Journey Journal
 Language: English
-Updated: 2026-08-03
+Updated: 2026-08-13
 ## Companion pages
 
 <!-- AUTO-COMPANION-PAGES:START -->
@@ -19,6 +19,7 @@ Updated: 2026-08-03
 - [Flushing to Randall's Island by bike](https://wenchangyue.github.io/journey-journal-nyc/walk/flushing-to-randalls-ride/)
 - [Harlem at Golden Hour — Madison Avenue from 100th to 130th Street](https://wenchangyue.github.io/journey-journal-nyc/walk/madison-avenue-harlem-golden-hour/)
 - [Harlem in a Summer Thunderstorm — Lenox Avenue, 135th to 125th and Back](https://wenchangyue.github.io/journey-journal-nyc/walk/lenox-avenue-summer-thunderstorm/)
+- [Harlem, New York — Adam Clayton Powell Jr. Boulevard Walk](https://wenchangyue.github.io/journey-journal-nyc/walk/harlem-adam-clayton-powell-boulevard-walk/)
 - [Journey Journal home](https://wenchangyue.github.io/journey-journal-nyc/)
 - [Midtown in the Rain — 34th Street to St. Patrick's, Through a Misty Times Square](https://wenchangyue.github.io/journey-journal-nyc/walk/midtown-rain-walk/)
 - [Queens Night Market — A Saturday Night at New York's $5 Food Fair](https://wenchangyue.github.io/journey-journal-nyc/walk/queens-night-market/)
