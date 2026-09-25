@@ -6,7 +6,7 @@ Site: https://wenchangyue.github.io/journey-journal-nyc/
 YouTube: https://www.youtube.com/@journeyjournal-q
 Publisher: Journey Journal
 Language: English
-Updated: 2026-09-13
+Updated: 2026-09-25
 ## Companion pages
 
 <!-- AUTO-COMPANION-PAGES:START -->
@@ -17,6 +17,7 @@ Updated: 2026-09-13
 - [Complete public video index](https://wenchangyue.github.io/journey-journal-nyc/videos/)
 - [Cycling Randall's Island](https://wenchangyue.github.io/journey-journal-nyc/walk/randalls-island-ride/)
 - [Cycling the Central Park Loop — Golden Hour to Blue Hour, 110th Street Around and Back](https://wenchangyue.github.io/journey-journal-nyc/walk/central-park-loop-ride/)
+- [Flushing Mid-Autumn Market — Kissena Boulevard, New York](https://wenchangyue.github.io/journey-journal-nyc/walk/flushing-mid-autumn-market-kissena-boulevard/)
 - [Flushing to Randall's Island by bike](https://wenchangyue.github.io/journey-journal-nyc/walk/flushing-to-randalls-ride/)
 - [Harlem at Golden Hour — Madison Avenue from 100th to 130th Street](https://wenchangyue.github.io/journey-journal-nyc/walk/madison-avenue-harlem-golden-hour/)
 - [Harlem in a Summer Thunderstorm — Lenox Avenue, 135th to 125th and Back](https://wenchangyue.github.io/journey-journal-nyc/walk/lenox-avenue-summer-thunderstorm/)
